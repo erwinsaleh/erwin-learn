@@ -1,3 +1,4 @@
 Ini adalah file pertama dibuat dengan git hub
-Nama filenya file-pertama.txt
 Teks ini baru dibuat setelah dua baris sebelumnya
+Baris kedua dihapus, ditambah baris ini
+Ini juga ditambah
