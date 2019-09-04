@@ -1,0 +1,2 @@
+ini adalah isi file branch
+file ini merupakan cabang dari file-pertama.txt
