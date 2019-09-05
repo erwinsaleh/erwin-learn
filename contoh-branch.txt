@@ -1,3 +1,6 @@
 ini adalah isi file branch
+-tambah baris ini
 file ini merupakan cabang dari file-pertama.txt
+-ini juga ditambah
 _tambah baris ini
+ini judul baru
