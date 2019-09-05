@@ -1,3 +1,4 @@
 ini adalah isi file branch
+-ini baris beda dari pertama
+-sama
 file ini merupakan cabang dari file-pertama.txt
-_tambah baris ini
