@@ -1,4 +1,6 @@
 Ini adalah file pertama dibuat dengan git hub
+*tambah detail baris 1
+*baris ini baris ke dua
 Teks ini baru dibuat setelah dua baris sebelumnya
 Baris kedua dihapus, ditambah baris ini
 Ini juga ditambah
